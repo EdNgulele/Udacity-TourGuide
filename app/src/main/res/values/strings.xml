@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Maputo Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Southern Sun    -->
+    <string name="hotelName_1">Southern Sun</string>
+    <string name="hotelDescription_1">Set on the Av Marginal beachfront,
+        Stay Easy Maputo provides accommodation with an
+        outdoor swimming pool and a terrace overlooking the beach.</string>
+    <string name="hotelLocation_1">Av. da Marginal, 1100 Maputo"</string>
+    <string name="hotelPhone_1">+258 123 456 789</string>
+
+    <!-- Afrin Prestige Hotel    -->
+    <string name="hotelName_2">Afrin Prestige Hotel</string>
+    <string name="hotelDescription_2">Located at Maputo Bay, Afrin Prestige Hotel
+                        features a spa, fitness centre and a restaurant.
+                        The Tunduru Botanical Gardens is 1 km away. Free WiFi is available.</string>
+    <string name="hotelLocation_2">56 Stree Ngungunyane, Central C</string>
+    <string name="hotelPhone_2">+258 321 654 987</string>
+
+    <!-- Polana Serena Hotel   -->
+    <string name="hotelName_3">Polana Serena Hotel</string>
+    <string name="hotelDescription_3">Offering an outdoor pool and a restaurant,
+        Polana Serena Hotel is located in Maputo.
+        Free WiFi access is available.</string>
+    <string name="hotelLocation_3">1380 Avenida Julius Nyerere"</string>
+    <string name="hotelPhone_3">+258 243 576 798</string>
+
+
+    <!-- Stay Easy Maputo    -->
+    <string name="hotelName_4">Stay Easy Maputo</string>
+    <string name="hotelDescription_4">Set on the Avenida Marginal beachfront,
+        Stay Easy Maputo provides accommodation with an outdoor swimming pool
+        and a terrace overlooking the beach.</string>
+    <string name="hotelPhone_4">+258 423 657 876</string>
+
+    <!-- Radisson Blu Maputo    -->
+    <string name="hotelName_5">Radisson Blu Maputo</string>
+    <string name="hotelDescription_5">Radisson Blu Hotel and Residence Maputo is located
+        on the beach side avenue and
+        features an outdoor swimming pool and views of the Indian Ocean.</string>
+    <string name="hotelPhone_5">+258 423 657 876</string>
+
+
+    <!-- Maputo Fortress    -->
+    <string name="museumName_1">Maputo Fortress</string>
+    <string name="museumDescription_1">Maputo Fortress, also known as Fortress of Our Lady of Conception,
+        is a national historical..</string>
+
+    <!-- Railway Station and Museum   -->
+    <string name="museumName_2">Railway Station and Museum</string>
+    <string name="museumDescription_2">The Museum has interesting historical info and photos,
+                        steam locomotives and railway cars, and a collection..</string>
+
+    <!-- Maputo Fortress    -->
+    <string name="museumName_3">Southern Sun</string>
+    <string name="museumDescription_3">Set on the Av Marginal beachfront,
+        Stay Easy Maputo provides accommodation with an
+        outdoor swimming pool and a terrace overlooking the beach.</string>
+
+
+    <!-- National Museum of Art    -->
+    <string name="museumName_4">National Museum of Art</string>
+    <string name="museumDescription_4">The National Museum of Art is the main
+        Mozambican reference on the development of national arts.</string>
+
+
+    <!-- Bel Piatto    -->
+    <string name="restaurantName_1">Bel Piatto</string>
+    <string name="restaurantDescription_1">The restaurant offers a great service, the food is amazing, the environment calm and cosy.</string>
+
+    <!-- Galaxy Indian Restaurant   -->
+    <string name="restaurantName_2">Galaxy Indian Restaurant</string>
+    <string name="restaurantDescription_2">This restaurant serves excellent authentic Indian food. There is indoor and outdoor eating.</string>
+
+    <!-- Spazio   -->
+    <string name="restaurantName_3">Spazio</string>
+    <string name="restaurantDescription_3">Spazio is a very nice place to be with friends.
+        Very good environment, the food is awesome and the drinks are good.</string>
+
+    <!-- Mimmos    -->
+    <string name="restaurantName_4">Mimmos</string>
+    <string name="restaurantDescription_4">If you after safe European food, this is he place to go.
+        There are several in Maputo.</string>
+
+    <!-- FEIMA    -->
+    <string name="shoppingName_1">FEIMA</string>
+    <string name="shoppingDescription_1">FEIMA is Mozambique Maputo Handicraft Fair
+                        " inaugurated in 2010</string>
+
+    <!-- Central Market    -->
+    <string name="shoppingName_2">Central Market</string>
+    <string name="shoppingDescription_2">The Central Market in Mozambique capital of
+        Maputo is a fun place to shop, watch and relax.</string>
+
+    <!-- Maputo Shopping Center    -->
+    <string name="shoppingName_3">Maputo Shopping Center</string>
+    <string name="shoppingDescription_3">Supermarket and clothes and shoes shops.</string>
+
+    <!-- Elephant House   -->
+    <string name="shoppingName_4">Elephant House</string>
+    <string name="shoppingDescription_4">If you love textiles, southern
+        Africa culture, are a person who sews or quilts you will love this shop.</string>
+
+    <string name="genericLocation">Av. da Marginal"</string>
+    <string name="timeAllDay">All Day</string>
+    <string name="genericTime">8am-5pm</string>
+    <string name="genericPhoneNumber">+258 123 456 789</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="museum">Museum</string>
+    <string name="food">Food</string>
+    <string name="shopping">Shopping</string>
+
+
+</resources>
